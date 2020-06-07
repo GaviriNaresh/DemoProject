@@ -35,8 +35,8 @@ This repository consist of rules how to design
  
  |Name|Roll No|
  |---|------|
- |Navya|22|
- |N|2|
+ |Naresh|21|
+ |M|2|
 
 
 ~~~python
